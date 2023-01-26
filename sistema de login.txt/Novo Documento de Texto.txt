@@ -1,2 +1,3 @@
 digite seu email
 deigite sua senha
+digite sua idade
